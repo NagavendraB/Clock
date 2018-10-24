@@ -1,9 +1,9 @@
-# React Clock
+## Clock
 
 A clock that displays the date and time
 
 
-## Developed With
+## Dependencies
 
 * [Node.js](https://nodejs.org/en/) - Javascript runtime
 * [React](https://reactjs.org/) - A javascript library for building user interfaces
@@ -14,4 +14,4 @@ A clock that displays the date and time
 
 Sample screen:
 
-![Alt text](/styles/images/to/Output.jpg?raw=true "Output Title")
+![Alt text](Output.PNG?raw=true "Output Title")
